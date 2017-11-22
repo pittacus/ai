@@ -28,8 +28,8 @@ company ｜ hardware ｜ application | partner
 cambricon | IP core | inference | huawei
 行| 行| training | 科大讯飞
 Xilinx | FPGA | 深鉴科技 ｜(Defense-Grade 7-Series FPGAs)
-XXX ｜ DSP ｜ ｜ 
-NVIDIA ｜ GPU ｜  ｜
+XXX ｜ DSP ｜ x｜ x
+NVIDIA ｜ GPU ｜ x ｜x
  
 ---
 
