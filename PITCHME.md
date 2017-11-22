@@ -32,7 +32,7 @@ GPU based     - NVIDIA
 
 - training vs inference
 - power efficiency vs prediction accuracy (model compression, fix point, memory optimization)
-
+- cloud vs edge (latency, battary
 
 ---
 Hello!
