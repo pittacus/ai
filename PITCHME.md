@@ -8,8 +8,9 @@ Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the 
 ---
 
 ## enable AI everywhere
-－ from Cloud to Edge
-－ highly Power-efficient microcontrollers
+-
+- from Cloud to Edge
+- highly Power-efficient microcontrollers
 
 ---
 
@@ -20,11 +21,12 @@ Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the 
 ---
 
 ## who is here
-IP core based - ARM: https://www.arm.com/markets/artificial-intelligence
-IP core based - cambricon: 
-FPGA based    - Xilinx: (Defense-Grade 7-Series FPGAs)
-DSP based     - 
-GPU based     - NVIDIA
+1. IP core based - ARM: https://www.arm.com/markets/artificial-intelligence
+2. IP core based - cambricon: 
+3. FPGA based    - Xilinx: (Defense-Grade 7-Series FPGAs)
+1. DSP based     - 
+1. GPU based     - NVIDIA
+
 
 ---
 
@@ -38,8 +40,10 @@ GPU based     - NVIDIA
 
 ## market
 
-- rapid prototyping
--
+rapid prototyping for 
+- unmanned systems
+- robot
+- consumer electronics
 
 ---
 
