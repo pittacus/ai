@@ -23,7 +23,7 @@ Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the 
 ## who is here
 company ｜ hardware ｜ application | partner
 －－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－
-1. ARM | IP core |  mobile phone | https://www.arm.com/markets/artificial-intelligence
+1. ARM | IP core |  mobile phone | 中兴、小米、android https://www.arm.com/markets/artificial-intelligence
 1. cambricon | IP core | : 
 1. Xilinx | FPGA | 深鉴科技 (Defense-Grade 7-Series FPGAs)
 1. XXX ｜ DSP ｜
