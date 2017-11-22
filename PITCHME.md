@@ -13,6 +13,10 @@ Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the 
 
 ## critical scence
 - highly constrained, battery powered edge devices - wearables and sensors
+- 
+
+## who is here
+ARM: https://www.arm.com/markets/artificial-intelligence
 
 
 ---
