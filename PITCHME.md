@@ -30,7 +30,7 @@ cambricon | IP core | inference | huawei
 Xilinx | FPGA | 深鉴科技 ｜(Defense-Grade 7-Series FPGAs)
 XXX ｜ DSP ｜ x｜ x
 NVIDIA ｜ GPU ｜ x ｜x
- 
+
 ---
 
 First Header | Second Header
