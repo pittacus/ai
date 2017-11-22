@@ -31,7 +31,7 @@ GPU based     - NVIDIA
 ## technical issue
 
 - training vs inference
-
+- power efficiency vs prediction accuracy (model compression, fix point, memory optimization)
 
 ---
 Hello!
