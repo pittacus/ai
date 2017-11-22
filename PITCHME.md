@@ -23,8 +23,9 @@ Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the 
 ## who is here
 company ｜ hardware ｜ application | partner
 －－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－
-1. [ARM](https://www.arm.com/markets/artificial-intelligence) | IP core |  mobile phone | 中兴、小米、android 
-1. cambricon | IP core | : 
+1. [ARM](https://www.arm.com/markets/artificial-intelligence) | IP core |  inference | 中兴、小米、android 
+1. cambricon | IP core | inference | huawei
+1. | | training | 科大讯飞
 1. Xilinx | FPGA | 深鉴科技 (Defense-Grade 7-Series FPGAs)
 1. XXX ｜ DSP ｜
 1. NVIDIA ｜ GPU ｜ 
