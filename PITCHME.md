@@ -21,11 +21,11 @@ Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the 
 ---
 
 ## who is here
-1. IP core based - ARM: https://www.arm.com/markets/artificial-intelligence
-2. IP core based - cambricon: 
-3. FPGA based    - Xilinx: (Defense-Grade 7-Series FPGAs)
+1. ARM | IP core |  https://www.arm.com/markets/artificial-intelligence
+2. cambricon | IP core | : 
+3. Xilinx | FPGA based | 深鉴科技 (Defense-Grade 7-Series FPGAs)
 1. DSP based     - 
-1. GPU based     - NVIDIA
+1. NVIDIA ｜ GPU based     - 
 
 
 ---
