@@ -26,8 +26,8 @@ company ｜ hardware ｜ application | partner
 －－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－
 [ARM](https://www.arm.com/markets/artificial-intelligence) | IP core |  inference | 中兴、小米、android 
 cambricon | IP core | inference | huawei
-| | training | 科大讯飞
-Xilinx | FPGA | 深鉴科技 (Defense-Grade 7-Series FPGAs)
+行| 行| training | 科大讯飞
+Xilinx | FPGA | 深鉴科技 ｜(Defense-Grade 7-Series FPGAs)
 XXX ｜ DSP ｜ ｜ 
 NVIDIA ｜ GPU ｜  ｜
 
