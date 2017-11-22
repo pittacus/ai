@@ -38,6 +38,9 @@ GPU based     - NVIDIA
 
 ## market
 
+- rapid prototyping
+-
+
 ---
 
 ## goal
