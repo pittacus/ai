@@ -24,7 +24,7 @@ Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the 
 1. ARM | IP core |  https://www.arm.com/markets/artificial-intelligence
 1. cambricon | IP core | : 
 1. Xilinx | FPGA | 深鉴科技 (Defense-Grade 7-Series FPGAs)
-1. DSP based     - 
+1. XXX ｜ DSP ｜
 1. NVIDIA ｜ GPU ｜ 
 
 
