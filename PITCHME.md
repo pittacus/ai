@@ -34,6 +34,13 @@ GPU based     - NVIDIA
 - power efficiency vs prediction accuracy (model compression, fix point, memory optimization)
 - cloud vs edge (civil: latency, battary, | military: reliability, security)
 
+---
+
+## market
+
+---
+
+## goal
 
 ---
 Hello!
