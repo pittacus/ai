@@ -19,8 +19,9 @@ Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the 
 ## who is here
 IP core based - ARM: https://www.arm.com/markets/artificial-intelligence
 IP core based - cambricon: 
-FPGA based    - XLINX: (Defense-Grade 7-Series FPGAs)
+FPGA based    - Xilinx: (Defense-Grade 7-Series FPGAs)
 DSP based     - 
+GPU based     - NVIDIA
 
 ---
 Hello!
