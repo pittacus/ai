@@ -5,6 +5,21 @@ Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the 
 ---
 ## why AI
 
+---
+
 ## from Cloud to Edge 
 
+---
+Hello!
 
++++
+
+Hola!
+
+---
+
+Goodbye!
+
++++
+
+Adiós!
