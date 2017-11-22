@@ -7,7 +7,13 @@ Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the 
 
 ---
 
-## from [Cloud](#) to Edge 中文
+## enable AI everywhere
+－ from Cloud to Edge
+－ highly Power-efficient microcontrollers
+
+## critical scence
+- highly constrained, battery powered edge devices - wearables and sensors
+
 
 ---
 Hello!
