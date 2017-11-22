@@ -14,7 +14,9 @@ supply of labor reduces
 -
 - from Cloud to Edge
 - highly Power-efficient microcontrollers
-- Edge computing
+- refer to Edge computing (https://en.wikipedia.org/wiki/Edge_computing)
+  - 
+ 
 
 ---
 
