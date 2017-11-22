@@ -32,7 +32,8 @@ GPU based     - NVIDIA
 
 - training vs inference
 - power efficiency vs prediction accuracy (model compression, fix point, memory optimization)
-- cloud vs edge ( civil: latency, battary, military: reliability, security)
+- cloud vs edge (civil: latency, battary, | military: reliability, security)
+
 
 ---
 Hello!
