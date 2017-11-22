@@ -1,9 +1,12 @@
 ## A New Post
 
-Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the toolbar above, or click the **?** button for formatting help.
+embed AI
 
 ---
 ## why AI
+
+unit labor cost increase
+supply of labor reduces
 
 ---
 
@@ -11,6 +14,7 @@ Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the 
 -
 - from Cloud to Edge
 - highly Power-efficient microcontrollers
+- Edge computing
 
 ---
 
