@@ -22,7 +22,7 @@ Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the 
 
 ## who is here
 
-company ｜ hardware ｜ application | partner
+company | hardware | application | partner
 ---|---|---|---
 [ARM](https://www.arm.com/markets/artificial-intelligence) | IP core |  inference | 中兴、小米、android 
 cambricon | IP core | inference | huawei
